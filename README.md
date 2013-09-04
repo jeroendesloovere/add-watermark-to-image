@@ -1,4 +1,3 @@
-add-watermark-to-image
-======================
+# AddWaterMarkToImage PHP class
 
-Add a watermark to an image using PHP
+This AddWaterMarkToImage PHP class allows you to add a watermark to an image using PHP.
